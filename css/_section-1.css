@@ -1,0 +1,33 @@
+.section-1 {
+    margin-top: 3.75rem;
+}
+
+
+.section-1 div {
+    margin-bottom: 3.44rem;
+}
+
+
+.partners-text {
+    text-align: center;
+    width: 25.6rem;
+}
+
+.partners-text p {
+    font-size: 1.25rem;
+}
+
+/* social-icons */
+
+.social-icons * {
+    margin-left: 4.25rem;
+}
+
+.p-left {
+    padding-left: 7.5rem;
+}
+
+.section-2 {
+    margin-top: 4.56rem;
+    margin: 4.6rem 8.12rem;
+}

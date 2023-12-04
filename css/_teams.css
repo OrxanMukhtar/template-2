@@ -1,0 +1,9 @@
+.cards div {
+    width: 17.5rem;
+}
+
+.cards-div {
+    margin: 2.81rem 1rem;
+    border: 1.25rem solid #fff;
+    border-radius: 5px;
+}

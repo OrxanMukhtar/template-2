@@ -1,0 +1,37 @@
+nav a {
+    transition: ease-in-out .4s;
+}
+
+nav a:hover {
+    color: #74C69D;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+footer img {
+    transition: ease-in-out .2s;
+}
+
+footer img:hover {
+    transform: scale(1.5);
+
+}
+
+.btn-exp {
+    transition: ease-in-out .4s;
+}
+
+.btn-exp:hover {
+    background-color: #74C69D;
+    outline: 1px solid #fff;
+}
+
+.cards-div img {
+    transition: ease-in-out .3s;
+    border-radius: 50%;
+}
+
+.cards-div img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px grey;
+}

@@ -1,0 +1,56 @@
+header {
+    background-color: #74C69D;
+}
+
+
+/* NAV */
+
+.logo-div {
+    width: 11.7rem;
+    display: flex;
+}
+
+nav {
+    margin: 0 8.12rem 0 8.44rem ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li a {
+    color: #fff;
+    font-size: 1.25rem;
+    margin-left: 1.88rem;
+    padding: 5px;
+}
+
+/* HERO */
+
+.sec-hed {
+    display: flex;
+    margin: 0 8.12rem;
+}
+
+.text-hed-div {
+    padding-right: 7.5rem;
+}
+
+.pic-hed-div {
+    margin-bottom: 5.18rem;
+}
+
+.btn-exp {
+    margin: .56rem 0;
+    width: 10.6rem;
+    height: 3rem;
+    text-align: center;
+    border-radius: .31rem;
+}
+
+.btn-exp a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10.6rem;
+    height: 3rem;
+}
